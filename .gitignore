@@ -1,0 +1,10 @@
+# Developers
+.hg
+.git
+.svn
+.idea/
+.sass-cache/
+*.db
+*.sqlite
+*.pyc
+*~
